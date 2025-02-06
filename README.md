@@ -19,7 +19,13 @@
 2. **Players join using the session ID** and wait for the quiz to start.  
 3. **Questions appear one by one** with a countdown timer.  
 4. **Faster responses score more points!**  
-5. **Leaderboard updates in real time.**  
+5. **Leaderboard updates in real time.**
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/a132d5db-f09f-4f93-bc09-0c41c39f9f55)
+![image](https://github.com/user-attachments/assets/7198fb64-c219-4a21-b2b9-828ee03caa8f)
+
+
 
 ---
 
