@@ -1,6 +1,6 @@
-[submodule "cicd-demo-app-client"]
-	path = cicd-demo-app-client
+[submodule "quiz-hub-client"]
+	path = quiz-hub-client
 	url = git@github.com:eranthaWELIKALA/Quiz-Hub-Client.git
-[submodule "cicd-demo-app-server"]
-	path = cicd-demo-app-server
+[submodule "quiz-hub-server"]
+	path = quiz-hub-server
 	url = git@github.com:eranthaWELIKALA/Quiz-Hub-Server.git
